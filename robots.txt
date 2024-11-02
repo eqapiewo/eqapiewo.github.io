@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqapiewo.github.io/qJK/sitemap_index.txt
+Sitemap: https://eqapiewo.github.io/rZk/sitemap_index.txt
+Sitemap: https://eqapiewo.github.io/sxY/sitemap_index.txt
+Sitemap: https://eqapiewo.github.io/trE/sitemap_index.txt
